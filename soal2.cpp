@@ -1,4 +1,4 @@
-#include <iostream>     // Library untuk input-output standar (cin, cout)
+#include <iostream>     // Library untuk input dan output (cin, cout)
 #include <string>       // Library untuk tipe data string
 using namespace std;    // Agar tidak perlu menulis std:: setiap kali pakai fungsi dari std
 
