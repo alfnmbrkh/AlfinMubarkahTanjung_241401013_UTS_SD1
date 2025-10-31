@@ -1,7 +1,7 @@
 #include <iostream>   // Library untuk input dan output (cin, cout)
 #include <string>     // Library untuk tipe data string
 #include <vector>     // Library untuk menggunakan vector (array dinamis)
-using namespace std;  // Supaya tidak perlu menulis std:: di setiap pemanggilan
+using namespace std;  // Agar tidak perlu menulis std:: setiap kali pakai fungsi dari std
 
 // Struktur untuk menyimpan data pasien
 struct Patient {
