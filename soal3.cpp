@@ -1,7 +1,8 @@
-#include <iostream>
-#include <queue>
-#include <vector>
-using namespace std;
+#include <iostream> // Library untuk input dan output (cin, cout)
+#include <queue> // Library untuk menggunakan queue
+#include <vector> // Library untuk menggunakan vector (array dinamis)
+#include <string> // Library untuk tipe data string
+using namespace std; // Agar tidak perlu menulis std:: setiap kali pakai fungsi dari std
 
 // Struktur edge: tujuan dan jarak
 struct Edge {
